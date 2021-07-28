@@ -2,6 +2,9 @@
 ## Overview of Analysis
 A dataset from Citibike New York City containing information on their bikesharing transactions was visualized for the purpose of research on starting a similar business in Des Moines, Iowa. This analysis uses data for the month of August, 2019 only.
 ## Results
+
+[Link to Story](https://public.tableau.com/app/profile/jasmeet.singh8085/viz/CitibikeDataChallenge/CitibikeVisualizations?publish=yes)
+
 ![top_starting_locations](https://user-images.githubusercontent.com/79877531/127270588-1232d54b-f6aa-47e7-8788-e21771dc629d.PNG)
 The above image shows the top starting locations for bike trips in NYC. There are trips throughout the whole city, but most of them start in the lower Manhattan area.
 
